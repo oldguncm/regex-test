@@ -6,3 +6,4 @@ C:\Users\oldgun\source\repos\RegexTest\RegexTest\obj\x86\Release\RegexTest.cspro
 C:\Users\oldgun\source\repos\RegexTest\RegexTest\obj\x86\Release\RegexTest.csproj.CoreCompileInputs.cache
 C:\Users\oldgun\source\repos\RegexTest\RegexTest\obj\x86\Release\RegexTest.exe
 C:\Users\oldgun\source\repos\RegexTest\RegexTest\obj\x86\Release\RegexTest.pdb
+C:\Users\oldgun\source\repos\RegexTest\RegexTest\obj\x86\Release\RegexTest.csprojAssemblyReference.cache

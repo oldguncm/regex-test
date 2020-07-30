@@ -38,10 +38,12 @@
             this.btnStart = new System.Windows.Forms.Button();
             this.label4 = new System.Windows.Forms.Label();
             this.label5 = new System.Windows.Forms.Label();
+            this.lbRegex = new System.Windows.Forms.ListBox();
             this.SuspendLayout();
             // 
             // txtRegex
             // 
+            this.txtRegex.Font = new System.Drawing.Font("宋体", 14F);
             this.txtRegex.Location = new System.Drawing.Point(143, 12);
             this.txtRegex.Multiline = true;
             this.txtRegex.Name = "txtRegex";
@@ -59,6 +61,7 @@
             // 
             // txtText
             // 
+            this.txtText.Font = new System.Drawing.Font("宋体", 14F);
             this.txtText.Location = new System.Drawing.Point(143, 126);
             this.txtText.Multiline = true;
             this.txtText.Name = "txtText";
@@ -76,9 +79,11 @@
             // 
             // txtResult
             // 
+            this.txtResult.Font = new System.Drawing.Font("宋体", 14F);
             this.txtResult.Location = new System.Drawing.Point(143, 263);
             this.txtResult.Multiline = true;
             this.txtResult.Name = "txtResult";
+            this.txtResult.ReadOnly = true;
             this.txtResult.Size = new System.Drawing.Size(796, 276);
             this.txtResult.TabIndex = 0;
             // 
@@ -121,11 +126,26 @@
             this.label5.TabIndex = 4;
             this.label5.Text = "2020.7.30";
             // 
+            // lbRegex
+            // 
+            this.lbRegex.DrawMode = System.Windows.Forms.DrawMode.OwnerDrawVariable;
+            this.lbRegex.Font = new System.Drawing.Font("宋体", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.lbRegex.FormattingEnabled = true;
+            this.lbRegex.ItemHeight = 20;
+            this.lbRegex.Location = new System.Drawing.Point(971, 13);
+            this.lbRegex.Name = "lbRegex";
+            this.lbRegex.Size = new System.Drawing.Size(251, 532);
+            this.lbRegex.TabIndex = 5;
+            this.lbRegex.DrawItem += new System.Windows.Forms.DrawItemEventHandler(this.lbRegex_DrawItem);
+            this.lbRegex.MeasureItem += new System.Windows.Forms.MeasureItemEventHandler(this.lbRegex_MeasureItem);
+            this.lbRegex.SelectedIndexChanged += new System.EventHandler(this.lbRegex_SelectedIndexChanged);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(970, 562);
+            this.ClientSize = new System.Drawing.Size(1234, 562);
+            this.Controls.Add(this.lbRegex);
             this.Controls.Add(this.label5);
             this.Controls.Add(this.label4);
             this.Controls.Add(this.btnStart);
@@ -157,6 +177,7 @@
         private System.Windows.Forms.Button btnStart;
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.Label label5;
+        private System.Windows.Forms.ListBox lbRegex;
     }
 }
 
