@@ -1,0 +1,8 @@
+C:\Users\oldgun\source\repos\RegexTest\RegexTest\bin\x86\Release\RegexTest.exe
+C:\Users\oldgun\source\repos\RegexTest\RegexTest\bin\x86\Release\RegexTest.pdb
+C:\Users\oldgun\source\repos\RegexTest\RegexTest\obj\x86\Release\RegexTest.Form1.resources
+C:\Users\oldgun\source\repos\RegexTest\RegexTest\obj\x86\Release\RegexTest.Properties.Resources.resources
+C:\Users\oldgun\source\repos\RegexTest\RegexTest\obj\x86\Release\RegexTest.csproj.GenerateResource.cache
+C:\Users\oldgun\source\repos\RegexTest\RegexTest\obj\x86\Release\RegexTest.csproj.CoreCompileInputs.cache
+C:\Users\oldgun\source\repos\RegexTest\RegexTest\obj\x86\Release\RegexTest.exe
+C:\Users\oldgun\source\repos\RegexTest\RegexTest\obj\x86\Release\RegexTest.pdb

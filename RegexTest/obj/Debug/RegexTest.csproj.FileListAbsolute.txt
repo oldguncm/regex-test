@@ -1,0 +1,9 @@
+C:\Users\oldgun\source\repos\RegexTest\RegexTest\bin\Debug\RegexTest.exe
+C:\Users\oldgun\source\repos\RegexTest\RegexTest\bin\Debug\RegexTest.pdb
+C:\Users\oldgun\source\repos\RegexTest\RegexTest\obj\Debug\RegexTest.csprojAssemblyReference.cache
+C:\Users\oldgun\source\repos\RegexTest\RegexTest\obj\Debug\RegexTest.Form1.resources
+C:\Users\oldgun\source\repos\RegexTest\RegexTest\obj\Debug\RegexTest.Properties.Resources.resources
+C:\Users\oldgun\source\repos\RegexTest\RegexTest\obj\Debug\RegexTest.csproj.GenerateResource.cache
+C:\Users\oldgun\source\repos\RegexTest\RegexTest\obj\Debug\RegexTest.csproj.CoreCompileInputs.cache
+C:\Users\oldgun\source\repos\RegexTest\RegexTest\obj\Debug\RegexTest.exe
+C:\Users\oldgun\source\repos\RegexTest\RegexTest\obj\Debug\RegexTest.pdb
